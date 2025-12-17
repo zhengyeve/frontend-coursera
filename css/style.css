@@ -65,7 +65,7 @@ section {
 .hero {
     margin-top: 2rem;
     margin-bottom: 4rem;
-    background-image: url("/assets/hero-bg.webp");
+    background-image: url("assets/hero-bg.webp");
     background-size: cover;
     background-position: center;
     border-radius: 5px;
